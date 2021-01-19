@@ -132,6 +132,22 @@
 			]
 		},
 		{
+			"category": "files",
+			"values": [
+				{
+					"value": "2"
+				}
+			]
+		},
+		{
+			"category": "subjects",
+			"values": [
+				{
+					"value": "0"
+				}
+			]
+		},
+		{
 			"category": "logo",
 			"values": [
 				{
